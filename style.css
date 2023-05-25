@@ -1,6 +1,9 @@
-body {color:red }
+body {color:rgb(168, 19, 19) }
 
-P {color:blue; 
+h1{
+   color: #000;
+}
+P {color:red; 
    font-size:20px;
    font-family:Courier;
    font-weight:bold;
